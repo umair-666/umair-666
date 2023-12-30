@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Umair Usman</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on **AI Image generation web app**
+- 🔭 I’m currently working on **Real Time Human Detection Project**
 
-- 🌱 I’m currently learning **NodeJS, MongoDB**
+- 🌱 I’m currently learning **Artificial Intelligence &  Machine Learning**
 
 - 💬 Ask me about **Coding and Problem Solving**
 
